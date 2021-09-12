@@ -1,0 +1,14 @@
+{
+  "name": "monorepo-demo",
+  "private": true,
+  "version": "1.0.0",
+  "author": "Aqours",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "watch:blog": "npm run watch -w @test/blog",
+    "build:blog": "npm run build -w @test/blog"
+  },
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+// This file is not required if you don't run `tsc -b packages/blog`
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./packages/blog"
+    },
+    {
+      "path": "./packages/utils"
+    }
+  ]
+}
