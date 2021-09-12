@@ -17,3 +17,9 @@ $ npm run watch:blog
 $ cd packages/blog
 $ npm run watch
 ```
+
+## Further reading
+
+- [Simple monorepos via npm workspaces and TypeScript project references](https://2ality.com/2021/07/simple-monorepos.html)
+- [Official documentation of npm workspaces](https://docs.npmjs.com/cli/v7/using-npm/workspaces)
+- [Boost your productivity with TypeScript project references](https://blog.logrocket.com/boost-your-productivity-with-typescript-project-references/)
